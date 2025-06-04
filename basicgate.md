@@ -117,11 +117,6 @@ The simulation results were visualized using Vivado’s waveform viewer, confirm
 
 ---
 
-## Repository Name Suggestion
-
-For your project, a unique and descriptive repository name could be:
-
-**`vhdl-logic-gates-xilinx`**
 
 This name clearly indicates the project's focus on VHDL logic gates and its implementation using Xilinx tools.
 
