@@ -96,6 +96,8 @@ The simulation results were visualized using Vivado’s waveform viewer, confirm
 | 0       | 1       | 0        | 1       | 1        | 1      |
 | 1       | 0       | 0        | 1       | 1        | 0      |
 | 1       | 1       | 1        | 1       | 0        | 0      |
+
+
 ![420625611-b229c906-84dd-4d97-9efe-1bb81a7df5e7](https://github.com/user-attachments/assets/2c1a8a00-a688-4fc7-afa8-40c7ab773917)
 
 ## Challenges and Learnings
