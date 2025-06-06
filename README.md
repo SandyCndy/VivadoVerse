@@ -98,7 +98,7 @@ MIT License. Use, modify, and distribute freely with credit.
 
 **Sandeep kumar**  
 B.Tech Electronics & Communication | FPGA Design | VHDL Enthusiast  
-📬 Connect on [www.linkedin.com/in/sandeepkumar2612](www.linkedin.com/in/sandeepkumar2612) | 💻 Open for collaborations
+📬 Connect on [www.linkedin.com/in/sandeepkumar2612](https://www.linkedin.com/in/sandeepkumar2612/) | 💻 Open for collaborations
 
 ```
 
