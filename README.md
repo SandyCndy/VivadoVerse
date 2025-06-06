@@ -17,7 +17,7 @@ To implement a high-speed hardware engine for 3×3 matrix × 3×1 vector multipl
 |-------|-------------|--------|
 | **Phase 1** | Project Planning & Specification | ✅ *(Complete)* |
 | **Phase 2** | Matrix Multiplication Engine (3×3 × 3×1) in VHDL | ✅ *(Completed in Xilinx Vivado)* |
-[github.com/SandyCndy/VivadoVerse/blob/main/matrixmultiplier3x1.md](github.com/SandyCndy/VivadoVerse/blob/main/matrixmultiplier3x1.md)
+[matrixmultiplier3x1](/VivadoVerse/matrixmultiplier3x1)
 | **Phase 3** | SRAM Memory Interface and HPS-FPGA Communication | 🔜 |
 | **Phase 4** | VGA Display of Rotating 3D Point Cloud | 🔜 |
 | **Phase 5** | Switch-Controlled Dynamic Axis Rotation (X, Y, Z) | 🔜 |
